@@ -30,9 +30,6 @@
             public function setAuteur(Auteur $auteur){return $this->auteur = $auteur;}
 
 
-            // public function getAfficherBibliographie(){
-            //     $result = 
-            // }
 
 
             public function __toString(){
